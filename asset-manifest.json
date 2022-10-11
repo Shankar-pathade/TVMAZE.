@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TVMAZE./static/css/main.85e7d13f.css",
+    "main.js": "/TVMAZE./static/js/main.bf6d4b96.js",
+    "static/js/787.c8b21338.chunk.js": "/TVMAZE./static/js/787.c8b21338.chunk.js",
+    "static/media/mam.jpg": "/TVMAZE./static/media/mam.85c315aaef28eaa6636b.jpg",
+    "index.html": "/TVMAZE./index.html",
+    "main.85e7d13f.css.map": "/TVMAZE./static/css/main.85e7d13f.css.map",
+    "main.bf6d4b96.js.map": "/TVMAZE./static/js/main.bf6d4b96.js.map",
+    "787.c8b21338.chunk.js.map": "/TVMAZE./static/js/787.c8b21338.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85e7d13f.css",
+    "static/js/main.bf6d4b96.js"
+  ]
+}
